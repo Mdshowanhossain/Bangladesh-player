@@ -1,0 +1,20 @@
+.players-container{
+
+    display: flex;
+
+}
+.player-container{
+    width:70%;
+    margin-left:20px;
+    margin-right:5px;
+}
+.addPlayer-container{}
+
+.btn-btn{
+    background-color: gold;
+    width:200px;
+    height:30px;
+    border-radius:10px;
+    border:1px solid black;
+    cursor: pointer;
+}
